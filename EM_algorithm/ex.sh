@@ -1,0 +1,1 @@
+python3 em.py ./data/gene_list_PPARG_target_genes.fasta 11
